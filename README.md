@@ -5,6 +5,6 @@
 
   Designed about 35 test cases (both positive and negative)
 
-  Executed all test cases and reported bugs/issues found
+  Executed all test cases by using manual testing and automated testing and reported bugs/issues found
 
   Delivered a final test summary with detailed execution results
